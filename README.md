@@ -24,8 +24,8 @@ Requires [Go](https://golang.org/dl/)
 
 ## How To Use:
 ```
-Create subjack Folder in .config and Create file fingerprints.json
-Copy and Paste Content of fingerprints.json file in .config/subjack/fingerprints.json
+Create subjack Folder in home/kali/go and Create file fingerprints.json
+Copy and Paste Content of fingerprints.json file in home/kali/go/subjack/fingerprints.json
 ```
 
 Examples: 
