@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/haccer/subjack/subjack"
+	"github.com/PushkraJ99/subjack/subjack"
 )
 
 func main() {
 	GOPATH := os.Getenv("GOPATH")
-	Project := "/src/github.com/haccer/subjack/"
+	Project := "/home/kali/.config/subjack/"
 	configFile := "fingerprints.json"
 	defaultConfig := GOPATH + Project + configFile
 
