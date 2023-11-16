@@ -10,7 +10,7 @@ import (
 
 func main() {
 	GOPATH := os.Getenv("GOPATH")
-	Project := "/home/kali/.config/subjack/"
+	Project := "/subjack/"
 	configFile := "fingerprints.json"
 	defaultConfig := GOPATH + Project + configFile
 
